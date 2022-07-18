@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2b23f66-fd28-4dd2-ab0b-aa9284a6f3f0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicio1/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicio1/Estado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/exercicio1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicio1/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicio2/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicio1/Estado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicio2/Estado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/exercicio2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio1.Main" />
+      <option name="MAIN_CLASS_NAME" value="exercicio2.Main" />
       <module name="dio_tqi_jpa1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio1.*" />
+          <option name="PATTERN" value="exercicio2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,7 +58,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.exercicio2.Main" />
       </list>
     </recent_temporary>
   </component>
